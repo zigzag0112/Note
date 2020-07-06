@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    margin: 10px;
+}
+.container{
+    border:solid darkgray;
+    border-width: 1px;
+    clear: both;
+    overflow:hidden;
+    margin-top: 1px;
+}
+.box1 h4{
+    width: auto;
+    float: left;
+    margin-right: 20px;
+}
+.box1 p{
+    width: auto;
+    float: left;
+    margin-right: 30px;
+}
+h2,.box1,.box2{
+    float: left;
+    padding: 10px;
+}
+.head{
+    background-color: grey;
+    padding: 20px;
+    color: white;
+}
+h2{
+    height: 100px;
+    width: 100px;
+    background-color: darkgray;
+    padding: 10px;
+    font-size: 15px;
+    text-align: center;
+    line-height: 100px;
+}
