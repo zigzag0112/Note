@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    width: 100%;
+    background-color: black;
+    height: 50px;
+}
+.head_content{
+    width: 960px;
+    margin: 0 auto;
+    height: 100%;
+}
+#logo{
+    height: 50px;
+    float: left;
+    margin-top: 5px;   /*可以有更好的方法*/
+}
+#logo img{
+    width: 30px;
+    height: 30px;
+}
+#lead{
+    float: right;
+    margin: 5px;
+}
+#lead li{
+    display: inline;
+}
+#lead li a{
+    color: white;
+}

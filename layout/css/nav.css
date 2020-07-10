@@ -1,0 +1,39 @@
+.nav{
+    height: 50px;
+    border-bottom: solid gray;
+    border-width: 1px;
+    position: relative;
+    border-collapse: collapse;
+}
+.nav_button{
+    width: 960px;
+    height: 100%;
+    margin: 0 auto;
+}
+.nav_button ul{
+    position: absolute;
+    bottom: 0;
+    height: 40px;
+    font-size: 0;
+}
+.nav_button li{
+    float: left;
+    height: 100%;
+    list-style: none;
+    font-size: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border: solid gray;
+    border-width: 1px;
+    background-color: whitesmoke;
+}
+.nav_button li:hover,.nav_button li:active{
+    background-color: white;
+    border-bottom: none;
+}
+.nav_button a{
+    color: black;
+    text-decoration: none;
+    margin: 20px;
+    line-height: 40px;
+}

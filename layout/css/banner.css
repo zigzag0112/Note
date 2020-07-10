@@ -1,0 +1,13 @@
+.banner{
+    height: 250px;
+    background-color: greenyellow;
+    position: relative;
+}
+.button{
+    position: absolute;
+    left: 75%;
+    bottom: 10%;
+}
+input[name]{
+    margin-left: 10px;
+}
