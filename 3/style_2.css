@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    margin: 10px;
+    height: 500px;
+}
+.container{
+    padding-top: 10px;
+    clear: both;
+}
+.box1,.box2{
+    padding-top: 10px;
+}
+.box1 h4{
+    width: auto;
+    float: left;
+    margin-right: 20px;
+}
+.box1 p{
+    width: auto;
+    float: left;
+    margin-right: 30px;
+}
+.head{
+    float: left;
+    background-color: aqua;
+    color: white;
+    padding:30px;
+    height: 100%;
+}
+.inf{
+    padding: 10px;
+    float: left;
+}
