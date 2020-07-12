@@ -1,0 +1,30 @@
+.example{
+    border-bottom:solid gray;
+    border-width: 1px;
+    padding: 20px;
+}
+.e_box1,.e_box2{
+    width: 60%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+.e_img{
+    flex: 3;
+    margin: 30px;
+}
+.e_text{
+    margin: 30px;
+    flex: 2;
+}
+.e_text1{
+    font: 20px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 50px;
+}
+.e_text2{
+    font-size: 15px;
+    color: gray;
+    margin: 30px 0;
+}

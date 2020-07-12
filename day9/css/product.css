@@ -1,0 +1,28 @@
+.product{
+    background-color: white;
+    border-width: 1px;
+    border-bottom: solid gray;
+    height: 500px;
+}
+.p_title{
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 50px;
+}
+.logo_box{
+    width: 60%;
+    margin: 0 auto;
+    display: flex;
+    flex: 1;
+}
+.logo{
+    margin: 30px;
+}
+.logo_text{
+    font-size: 15px;
+    color: gray;
+}
